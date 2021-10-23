@@ -110,7 +110,7 @@ h4 {
 }
 .two {
   bottom: 10px;
-  right: 100px;
+  right: 50px;
 }
 .three {
   bottom: 20px;
@@ -137,7 +137,12 @@ h4 {
 .map {
   position: relative;
 }
-
+.pik {
+  border-radius: 10px;
+  box-shadow: 2px 4px 10px hsla(0, 0%, 0%, 0.8);
+  max-width: 100%;
+  align-self: center;
+}
 footer {
   font-weight: bold;
   width: 100%;
